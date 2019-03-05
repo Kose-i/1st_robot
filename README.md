@@ -14,11 +14,11 @@ Play with robot.
 # Budget
 
 | Element | Budget | How to use |
----|---
-| RaspberryPi | | controller |
-| motor X2 | | motion Power |
-| Tires X4 | | motor power transfer motion |
-| USBcamera | | environment sensor |
-| Power | | RaspberryPi |
-| Pin |  | Pined RaspberryPi and motor |
-| Board | | Base |
+---|---|---
+| RaspberryPi | ? | controller |
+| motor X2 | ? | motion Power |
+| Tires X4 | ? | motor power transfer motion |
+| USBcamera | ? | environment sensor |
+| Power | ? | RaspberryPi |
+| Pin | ? | Pined RaspberryPi and motor |
+| Board | ?  | Base |
